@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Daniel Canales R.</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Junior developer who wants to improve his skills and become better and better everyday</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josedanielcr" alt="josedanielcr" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Angular, JavaScript, NodeJs, Oracle DB**
 
-- 📄 Know about my experiences [Junior Software Developer on a Finantial Company](Junior Software Developer on a Finantial Company)
+- 📄 Know about my experiences [Junior Software Developer on a Finantial Company]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
