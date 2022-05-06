@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josedanielcr" alt="josedanielcr" /></a> </p>
 
-- 🌱 I’m currently learning **React, Java**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Angular, JavaScript, NodeJs, Oracle DB**
 
